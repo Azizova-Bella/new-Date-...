@@ -88,6 +88,8 @@ for (const [key, value] of map) {
 
 ---
 
+![image](https://github.com/user-attachments/assets/a35328f7-9597-4f8d-8408-caba06bf6577)
+
 ## Объект Set
 `Set` используется для хранения уникальных значений любого типа.
 
