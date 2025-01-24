@@ -52,6 +52,8 @@ console.log(date1.toISOString()); // 2025-01-01T00:00:00.000Z
 
 ---
 
+![image](https://github.com/user-attachments/assets/3786413a-cd5a-4a05-b920-4211d71a3777)
+
 ## Объект Map
 `Map` предоставляет способ хранения ключей любого типа, включая объекты.
 
