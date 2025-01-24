@@ -1,13 +1,15 @@
 # Руководство: Date, Map и Set в JavaScript
 
-![image](https://github.com/user-attachments/assets/d4016de7-c630-40ce-b2ca-de6c751146d0)
+![image](https://github.com/user-attachments/assets/87e2803e-a6b5-4d30-b8a3-94197b90226b)
+
 
 ## Введение
 JavaScript предоставляет мощные встроенные структуры данных, которые упрощают работу с датами, коллекциями пар ключ-значение и наборами уникальных элементов. Это руководство подробно объясняет, как использовать объекты `Date`, `Map` и `Set` в повседневной практике разработки.
 
 ---
 
-![image](https://github.com/user-attachments/assets/b7ed0794-b51e-4806-8063-92cc3cf74a2d)
+![image](https://github.com/user-attachments/assets/394717e3-a062-4b16-8437-a516296c12e1)
+
 
 ## Объект Date
 Объект `Date` используется для представления моментов времени и выполнения операций с датами. Он работает на основе миллисекунд, прошедших с 1 января 1970 года (времени Unix).
