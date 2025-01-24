@@ -123,6 +123,8 @@ for (const value of set) {
 
 ---
 
+![image](https://github.com/user-attachments/assets/13a9258e-983c-46a2-92be-d71689c41c23)
+
 ## Сравнение Map и Set
 
 | Свойство        | Map                                | Set                                |
